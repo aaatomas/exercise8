@@ -1,0 +1,5 @@
+.venv/
+exercise8/app_hello/__pycache__/
+exercise8/app_hello/migrations/__pycache__/
+exercise8/exercise8/__pycache__/
+
