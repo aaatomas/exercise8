@@ -27,4 +27,4 @@ jobs:
         pip install -r exercise8/requirements.txt
     - name: Run Tests
       run: |
-        python manage.py test
+        python /home/runner/work/exercise8/manage.py test
